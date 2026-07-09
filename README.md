@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm PhelanDev
 
-<!--
-**PhelanDev/PhelanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded C++ | Robotics | ROS 2
 
-Here are some ideas to get you started:
+Electronics and Telecommunications undergraduate focused on embedded systems and autonomous robotics. I'm building practical robotics projects while following a structured 24-month roadmap toward Autonomous Mobile Robots (AMRs), from bare-metal firmware on STM32 to ROS 2, SLAM, and Edge AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Modern C++, Python
+- Embedded: STM32 Bare-metal, FreeRTOS
+- Robotics: ROS 2, TF2, Micro-ROS
+- Vision: OpenCV
+- AI: TensorRT, YOLO
+- Navigation: SLAM
+
+## 24-Month Robotics Roadmap
+- [x] Modern C++
+- [x] STM32 Fundamentals
+- [ ] Bare-metal Drivers
+- [ ] FreeRTOS
+- [ ] Micro-ROS
+- [ ] ROS 2
+- [ ] TF2 & Kinematics
+- [ ] Navigation2
+- [ ] Computer Vision
+- [ ] YOLO
+- [ ] SLAM
+- [ ] Autonomous Mobile Robot
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhelanDev&show_icons=true&theme=github_dark)
+
+## Contact
+Email: nguyenvanchat22606@gmail.com
