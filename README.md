@@ -27,7 +27,7 @@ Electronics and Telecommunications undergraduate focused on embedded systems and
 - [ ] Autonomous Mobile Robot
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhelanDev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhelanDev&show_icons=true&theme=dark&v=1)
 
 ## Contact
 Email: nguyenvanchat22606@gmail.com
