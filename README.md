@@ -1,4 +1,4 @@
-# Hi, I'm PhelanDev
+# Hi, I'm Nguyen Van Chat | PhelanDev
 
 Embedded C++ | Robotics | ROS 2
 
