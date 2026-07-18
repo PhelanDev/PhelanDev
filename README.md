@@ -34,6 +34,6 @@ Electronics & Telecommunications undergraduate with a passion for embedded syste
 
 ## Contact
 
-📧 Email: nguyenvanchat22606@gmail.com
-💻 GitHub: [PhelanDev](https://github.com/PhelanDev)
-💼 LinkedIn: [nguyenvanchat-dev](https://www.linkedin.com/in/nguyenvanchat-dev)
+* 📧 Email: nguyenvanchat22606@gmail.com
+* 💻 GitHub: [PhelanDev](https://github.com/PhelanDev)
+* 💼 LinkedIn: [nguyenvanchat-dev](https://www.linkedin.com/in/nguyenvanchat-dev)
