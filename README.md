@@ -21,7 +21,7 @@ Electronics & Telecommunications undergraduate with a passion for embedded syste
 
 * Develop embedded firmware for STM32
 * Deepen my understanding of the ROS 2 ecosystem
-* Explore localization and SLAM
+* Explore localization, mapping, and SLAM
 * Deploy lightweight AI models on embedded systems
 
 ---
@@ -36,3 +36,4 @@ Electronics & Telecommunications undergraduate with a passion for embedded syste
 
 📧 Email: nguyenvanchat22606@gmail.com
 💻 GitHub: [PhelanDev](https://github.com/PhelanDev)
+💼 LinkedIn: [nguyenvanchat-dev](https://www.linkedin.com/in/nguyenvanchat-dev)
