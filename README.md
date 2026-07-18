@@ -12,7 +12,7 @@ Languages
 
 Embedded Systems
 
-![STM32 (Bare-metal)](https://img.shields.io/badge/STM32%20(Bare--metal)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logo=freertos&logoColor=white) ![Micro-ROS](https://img.shields.io/badge/Micro--ROS-FF5733?style=for-the-badge&logo=ros&logoColor=white)
+![STM32 (Bare-metal)](https://img.shields.io/badge/STM32%20(Bare--metal)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logo=freertos&logoColor=white) ![Micro-ROS](https://img.shields.io/badge/Micro--ROS-FF5733?style=for-the-badge&logo=ros&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 Robotics
 
