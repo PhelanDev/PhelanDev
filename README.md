@@ -27,4 +27,4 @@ Electronics and Telecommunications undergraduate focused on embedded systems and
 - [ ] Autonomous Mobile Robot
 
 ## Contact
-Email: nguyenvanchat22606@gmail.com
+📧 **Email:** [nguyenvanchat22606@gmail.com](mailto:nguyenvanchat22606@gmail.com)
