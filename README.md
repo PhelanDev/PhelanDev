@@ -29,7 +29,7 @@ Electronics & Telecommunications undergraduate at UTT. I design low-level firmwa
 ## Featured Projects
 
 * **[PHELAN Butterfly](https://github.com/PhelanDev/PHELAN_butterfly)**: Bionic flapping-wing flight controller in C++17 on ESP32, featuring dynamic amplitude kinematics, a 300 Hz servo loop, and CRSF/ELRS control.
-* **[MicroDuck 8-DOF](https://github.com/PhelanDev/DUCK_MINI_TRAINING)**: 8-DOF bipedal robot for Sim-to-Real RL research using MuJoCo, URDF kinematics, and metal-gear servos on Raspberry Pi and ESP32-S3.
+* **[PHELANROBOT 8-DOF](https://github.com/PhelanDev/DUCK_MINI_TRAINING)**: 8-DOF bipedal robot for Sim-to-Real RL research using MuJoCo, URDF kinematics, and metal-gear servos on Raspberry Pi and ESP32-S3.
 * **[AQ_Lite](https://github.com/PhelanDev/AI-AQ-UTT_NCKH-sp)**: Distributed AIoT air quality monitoring and 24h forecasting with zero-heap INT8 TinyML on ESP32-S3 and GRU gateway on Raspberry Pi 5.
 
 ---
